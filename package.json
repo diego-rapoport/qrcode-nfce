@@ -16,6 +16,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
+    "cors-anywhere": "^0.4.4",
     "qr-scanner": "^1.4.2"
   }
 }
